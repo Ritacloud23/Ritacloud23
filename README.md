@@ -54,7 +54,8 @@ I believe in simplifying tech — making cloud engineering easy to understand fo
 ## Connect With Me
  [Portfolio](https://ritacloudsolutuin.online)
  [LinkedIn](https://linkedin.com/in/rita-nnenna)
- [GitHub](https://github.com/Ritacloud23)
+ [GitHub](https://github.com/Ritacloud23)https:
+ [X]https://x.com/RitaNnenna5?t=4wBPMdEEnpz6W1soN3E1Jw&s=09
   ugwuanyinnenna43@gmail.com
 
 
