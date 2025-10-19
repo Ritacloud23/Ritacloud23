@@ -58,11 +58,6 @@ I believe in simplifying tech — making cloud engineering easy to understand fo
   ugwuanyinnenna43@gmail.com
 
 
-## Preferred Design Theme
-
-Minimalist, clean, and cloud-themed, combining white and sky blue tones with professional fonts. Modern, organized, and tech-driven layout with subtle animations to keep the site engaging but not overwhelming.
-
-
 ## Sample Code Blocks
 
 ### Dockerfile Example
