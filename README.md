@@ -43,7 +43,7 @@ A personal portfolio hosted on AWS S3 + CloudFront with custom domain and respon
 ## Certifications & Achievements
 
 - **AWS Cloud Practitioner**
-- ** DigitalWitch Academy — Cloud computing **
+- **DigitalWitch Academy — Cloud computing**
 
 
 ## Fun Fact / Unique Side
