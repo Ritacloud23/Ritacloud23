@@ -1,10 +1,10 @@
 <div align="center">
 
-# Rita Nnenna — Cloud & DevOps Engineer
+# Cloud & DevOps Engineer
 
 **Cloud Infrastructure • DevOps Automation • Kubernetes (EKS/AKS) • Terraform • CI/CD**
 
-I build **production-ready cloud systems on AWS and Azure** — automated, secure, and scalable.
+I build **production-ready cloud systems on AWS and Azure**, automated, secure, and scalable.
 
 ![Cloud DevOps Banner](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80)
 
@@ -15,7 +15,7 @@ I build **production-ready cloud systems on AWS and Azure** — automated, secur
 ## About Me
 I’m a **Cloud & DevOps Engineer** with hands-on experience designing, deploying, and automating infrastructure across **AWS and Azure**.
 
-I focus on turning applications into reliable production systems using **Infrastructure as Code**, **CI/CD pipelines**, containerization, and Kubernetes — with clear documentation that teams can maintain.
+I focus on turning applications into reliable production systems using **Infrastructure as Code**, **CI/CD pipelines**, containerization, and Kubernetes, with clear documentation that teams can maintain.
 
 **What I deliver:**
 - **Pipeline-driven infrastructure** (repeatable, version-controlled, auditable)
@@ -84,13 +84,13 @@ Hosted and automated deployment of my portfolio website using **AWS S3** and **G
 
 ## Certifications
 - **AWS Certified Cloud Practitioner**
-- **DigitalWitch Academy — Cloud Computing**
+- **DigitalWitch Academy — DevOps & Cloud Security**
 
 ---
 
 ## Fun Fact
 When I’m not automating deployments, I enjoy creating clean documentation in Notion, designing DevOps visuals in Canva, and mentoring others learning AWS and Docker.  
-I believe in simplifying tech — making cloud engineering easy to understand.
+I believe in simplifying tech, making cloud engineering easy to understand.
 
 ---
 
