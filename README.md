@@ -95,7 +95,7 @@ I believe in simplifying tech, making cloud engineering easy to understand.
 ---
 
 ## Connect With Me
-- **Portfolio:** (https://ritacloud23.github.io/Rita-portfolio)  
+- **Portfolio:** (https://ritadev.online)  
 - **LinkedIn:** https://linkedin.com/in/rita-nnenna  
 - **GitHub:** https://github.com/Ritacloud23  
 - **X (Twitter):** https://x.com/RitaNnenna5  
