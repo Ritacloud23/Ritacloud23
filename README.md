@@ -49,30 +49,14 @@ I focus on turning applications into reliable production systems using **Infrast
 
 ---
 
-## Featured Projects (Proof of Work)
+## Featured Projects
 
-### 🔹 Production-Ready AKS Infrastructure with Terraform & CI/CD (Azure)
-**[Terraform-Azure](https://github.com/Ritacloud23/Terraform-Azure.git)**  
-Provisioned a **production-grade AKS cluster** using Terraform with a **security-first design** and **GitHub Actions CI/CD** (controlled plan/apply).  
-**Includes:** VNet + subnets, managed identity, least-privilege role assignments, NGINX Ingress (Helm), HCP Terraform remote state.
-
-### 🔹 AWS 3-Tier Terraform Deployment (AWS)
-**[AWS-3-Tier-Terraform-Deployment](https://github.com/Ritacloud23/AWS-3-Tier-Terraform-Deployment.git)**  
-Built a structured **3-tier AWS architecture** using Terraform modules and automation-friendly repo organization.
-
-### 🔹 Serverless Todo API (AWS)
-**[AWS-Serverless-Todo-API](https://github.com/Ritacloud23/AWS-Serverless-Todo-API.git)**  
-Designed a scalable **serverless backend** using **Lambda + DynamoDB + IAM**, demonstrating event-driven architecture with managed services.
-
-### 🔹 DevOps Automation Project — AWS EC2 Deployments (AWS)
-**[DevOps-automation-project](https://github.com/Ritacloud23/DevOps-automation-project.git)**  
-Automated application deployment on **AWS EC2** using **Bash scripting** and **GitHub Actions CI/CD**.  
-**Highlights:** server automation, repeatable deployment workflow, Linux fundamentals.
-
-### 🔹 Portfolio Website Deployment with CI/CD (AWS)
-**[Rita-Portfolio-website](https://github.com/Ritacloud23/Rita-Portfolio-website.git)**  
-Hosted and automated deployment of my portfolio website using **AWS S3** and **GitHub Actions** — updates deploy automatically on every push.
-
+| Project | Description | Stack |
+|---|---|---|
+| [Netflix Clone – Azure AKS DevSecOps Deployment](https://github.com/Ritacloud23/Netflix-Clone-Azure-AKS-DevSecOps-Deployment) | Containerized streaming app deployed on Azure AKS with integrated security scanning and monitoring | Azure, AKS, Trivy, Snyk, Prometheus, Grafana |
+| [Cloud-Native Task App (TeamFlow)](https://github.com/Ritacloud23/Cloud-Native-TaskAPP) | Full-stack task management platform deployed to production AWS with a multi-master Kubernetes cluster across 3 AZs, private subnet topology, and Terraform-managed infra with remote state in S3/DynamoDB | React, Vite, TypeScript, Flask, PostgreSQL (RDS), Kubernetes, Terraform |
+| [Mediplus DevOps Project](https://github.com/Ritacloud23/Mediplus-3-Tier-Application-Deployment) | End-to-end deployment pipeline for a healthcare application — containerized, automated, and secured with HTTPS via HAProxy | AWS, Docker, CI/CD, HAProxy |
+| [Modern Online Banking System Deployment on AWS](https://github.com/Ritacloud23/AWS-3-Tier-Banking-App-Deployment) | Production-style online banking system with full cloud infra automation, Kubernetes orchestration on EKS, secure domain routing via Route 53, and CI/CD via GitHub Actions | AWS, Terraform, Docker, Kubernetes (EKS), Amazon ECR, Route 53, RDS |
 ---
 
 ## Private Repositories (Available on Request)
