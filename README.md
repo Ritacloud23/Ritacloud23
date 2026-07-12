@@ -79,4 +79,4 @@ I believe in simplifying tech, making cloud engineering easy to understand.
 - **LinkedIn:** https://linkedin.com/in/rita-nnenna  
 - **GitHub:** https://github.com/Ritacloud23  
 - **X (Twitter):** https://x.com/RitaNnenna5  
-- **Email:** ugwuanyinnenna43@gmail.com
+- **Email:** rnnenna53@gmail.com
