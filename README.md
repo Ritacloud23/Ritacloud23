@@ -62,18 +62,6 @@ I turn applications into reliable production systems using **Infrastructure as C
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Netflix Clone – Azure AKS DevSecOps Deployment](https://github.com/Ritacloud23/Netflix-Clone-Azure-AKS-DevSecOps-Deployment) | Containerized streaming app deployed on Azure AKS with integrated security scanning and monitoring | Azure, AKS, Trivy, Snyk, Prometheus, Grafana |
-| [Cloud-Native Task App (TeamFlow)](https://github.com/Ritacloud23/Cloud-Native-TaskAPP) | Full-stack task management platform deployed to production AWS with a multi-master Kubernetes cluster across 3 AZs, private subnet topology, and Terraform-managed infra with remote state in S3/DynamoDB | React, Vite, TypeScript, Flask, PostgreSQL (RDS), Kubernetes, Terraform |
-| [Mediplus DevOps Project](https://github.com/Ritacloud23/Mediplus-3-Tier-Application-Deployment) | End-to-end deployment pipeline for a healthcare application — containerized, automated, and secured with HTTPS via HAProxy | AWS, Docker, CI/CD, HAProxy |
-| [Modern Online Banking System Deployment on AWS](https://github.com/Ritacloud23/AWS-3-Tier-Banking-App-Deployment) | Production-style online banking system with full cloud infra automation, Kubernetes orchestration on EKS, secure domain routing via Route 53, and CI/CD via GitHub Actions | AWS, Terraform, Docker, Kubernetes (EKS), Amazon ECR, Route 53, RDS |
-| [Ultimate Agentic DevOps with Claude Code](https://github.com/Ritacloud23/Ultimate-Agentic-DevOps-with-Claude-Code) | Built a full `.claude/` operating system for infrastructure delivery — custom subagents (security auditing, cost optimization, Terraform writing), MCP servers for live AWS/Terraform data, and a 3-layer safety hook system, deployed via GitHub Actions with OIDC (no long-lived AWS keys) | Claude Code, Terraform, MCP, AWS (S3, CloudFront, IAM), GitHub Actions |
-
----
-
 ## Certifications
 - **AWS Certified Cloud Practitioner**
 - **DigitalWitch Academy - DevOps & Cloud Security**
