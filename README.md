@@ -1,82 +1,228 @@
-<div align="center">
+```markdown
+# Hi, I'm Rita Nnenna 
 
-# Cloud & DevOps Engineer
+##  Cloud & DevOps Engineer | Backend & Full-Stack Developer
 
-**Cloud Infrastructure • DevOps Automation • Kubernetes (EKS/AKS) • Terraform • CI/CD • Agentic AI Workflows**
+I build, automate, and deploy reliable cloud infrastructure and modern applications.
 
-I build **production-ready cloud systems on AWS and Azure**, automated, secure, and scalable.
+My work focuses on **Cloud Computing, DevOps, Infrastructure as Code, CI/CD, Containerization, Kubernetes, Cloud Security, Monitoring, Backend Development, and AI-powered automation.**
 
- Currently: participating in **HackathonAfrica** (AfricaPlan Foundation)
+I enjoy taking a project from:
 
----
+** Code →  Infrastructure →  Containerization →  CI/CD →  Cloud Deployment →  Security →  Monitoring**
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Netflix Clone – Azure AKS DevSecOps Deployment](https://github.com/Ritacloud23/Netflix-Clone-Azure-AKS-DevSecOps-Deployment) | Containerized streaming app deployed on Azure AKS with integrated security scanning and monitoring | Azure, AKS, Trivy, Snyk, Prometheus, Grafana |
-| [Cloud-Native Task App (TeamFlow)](https://github.com/Ritacloud23/Cloud-Native-TaskAPP) | Full-stack task management platform deployed to production AWS with a multi-master Kubernetes cluster across 3 AZs, private subnet topology, and Terraform-managed infra with remote state in S3/DynamoDB | React, Vite, TypeScript, Flask, PostgreSQL (RDS), Kubernetes, Terraform |
-| [Mediplus DevOps Project](https://github.com/Ritacloud23/Mediplus-3-Tier-Application-Deployment) | End-to-end deployment pipeline for a healthcare application — containerized, automated, and secured with HTTPS via HAProxy | AWS, Docker, CI/CD, HAProxy |
-| [Modern Online Banking System Deployment on AWS](https://github.com/Ritacloud23/AWS-3-Tier-Banking-App-Deployment) | Production-style online banking system with full cloud infra automation, Kubernetes orchestration on EKS, secure domain routing via Route 53, and CI/CD via GitHub Actions | AWS, Terraform, Docker, Kubernetes (EKS), Amazon ECR, Route 53, RDS |
-| [Ultimate Agentic DevOps with Claude Code](https://github.com/Ritacloud23/Ultimate-Agentic-DevOps-with-Claude-Code) | Built a full `.claude/` operating system for infrastructure delivery, custom subagents (security auditing, cost optimization, Terraform writing), MCP servers for live AWS/Terraform data, and a 3-layer safety hook system, deployed via GitHub Actions with OIDC (no long-lived AWS keys) | Claude Code, Terraform, MCP, AWS (S3, CloudFront, IAM), GitHub Actions |
-
----
-
-## About Me
-
-I'm a **Cloud & DevOps Engineer** with hands-on experience designing, deploying, and automating infrastructure across **AWS and Azure**.
-
-I turn applications into reliable production systems using **Infrastructure as Code**, **CI/CD pipelines**, containerization, and Kubernetes - with documentation teams can actually maintain.
-
-**What I deliver:**
-- **Cloud infrastructure & administration** on **AWS and Azure** - provisioning, IAM, networking, and cost management
-- **Pipeline-driven infrastructure** (repeatable, version-controlled, auditable)
-- **Kubernetes deployments** with production-minded networking and security
-- **Serverless backends** using managed AWS services
-- **Agentic AI workflows** for infrastructure delivery — Claude Code, subagents, MCP, and safety guardrails
-- **Clean documentation** for easy handover and team collaboration
+I'm passionate about learning, solving real-world engineering problems, and building systems that are **scalable, secure, automated, and maintainable.**
 
 ---
 
 ## Technical Skills
-- **Cloud:**  
-  **AWS** (EC2, S3, ECR, VPC, IAM, Route 53, CloudFront, CloudWatch, Lambda, DynamoDB)  
-  **Azure** (Resource Groups, VNets, Subnets, NSGs, AKS, Managed Identities, Role Assignments, Azure Monitor)
 
-- **Infrastructure as Code:** Terraform (modules, remote state), Ansible  
-- **Containers & Orchestration:** Docker, Kubernetes (EKS/AKS), Portainer  
-- **CI/CD:** GitHub Actions, Jenkins  
-- **Networking:** NGINX, HAProxy (Reverse Proxy / Load Balancing)  
-- **OS & Scripting:** Linux Administration, Bash  
-- **Security:** SSL/TLS (Certbot / Let’s Encrypt), IAM/RBAC fundamentals, secrets handling  
-- **Monitoring/Observability:** CloudWatch, Azure Monitor, Datadog, Prometheus, Grafana
+### Languages & Web Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Frameworks & Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+###  Cloud Platforms
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+###  Infrastructure as Code & Automation
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+###  Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Azure AKS](https://img.shields.io/badge/Azure_AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+###  CI/CD & DevOps
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Argo CD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+###  Cloud Security & DevSecOps
+
+![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-721412?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+###  Monitoring & Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+###  Systems & Networking
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+###  AI & Automation
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 
 ---
 
-## Soft Skills
-- Troubleshooting & Root Cause Analysis  
-- Communication & Team Collaboration  
-- Technical Documentation (Notion & GitHub)  
-- Continuous Learning & Adaptability  
-- Strong Ownership & Attention to Detail  
+##  What I Build
+
+I enjoy building and deploying projects that combine application development with cloud infrastructure and automation.
+
+Some areas I work in include:
+
+-  Cloud infrastructure on AWS and Azure
+-  Infrastructure as Code with Terraform
+-  Containerized applications with Docker
+-  Kubernetes deployments with EKS and AKS
+-  Automated CI/CD pipelines
+-  DevSecOps and cloud security
+-  Monitoring and observability
+-  Python backend development
+-  React and Next.js applications
+-  AI-powered DevOps workflows
+-  Linux administration and server configuration
 
 ---
 
-## Certifications
-- **AWS Certified Cloud Practitioner**
-- **DigitalWitch Academy - DevOps & Cloud Security**
+##  Featured Projects
+
+###  Netflix Clone — Azure AKS DevSecOps
+
+[![Netflix Clone](https://img.shields.io/badge/View_Project-Netflix_Clone_%7C_Azure_AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/Ritacloud23/Netflix-Clone-Azure-AKS-DevSecOps-Deployment)
+
+Cloud-native Netflix application deployed on Azure AKS using **Terraform, Docker, Kubernetes, CI/CD, DevSecOps, GitOps, security scanning, and monitoring.**
 
 ---
 
-## Fun Fact
-When I’m not automating deployments, I enjoy creating clean documentation in Notion, designing DevOps visuals in Canva, and mentoring others learning AWS and Docker.  
-I believe in simplifying tech, making cloud engineering easy to understand.
+###  Cloud-Native Task App
+
+[![Cloud Native Task App](https://img.shields.io/badge/View_Project-Cloud--Native_Task_App-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/Ritacloud23)
+
+Cloud-native task management application demonstrating **containerization, infrastructure automation, CI/CD, deployment, and observability.**
 
 ---
 
-## Connect With Me
-- **Portfolio:** (https://ritadev.online)  
-- **LinkedIn:** https://linkedin.com/in/rita-nnenna  
-- **GitHub:** https://github.com/Ritacloud23  
-- **X (Twitter):** https://x.com/RitaNnenna5  
-- **Email:** rnnenna53@gmail.com
+###  MediPlus DevOps Project
+
+[![MediPlus](https://img.shields.io/badge/View_Project-MediPlus_DevOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/Ritacloud23)
+
+Healthcare application deployment demonstrating **AWS cloud infrastructure, Linux, NGINX, automation, CI/CD, and monitoring.**
+
+---
+
+###  Modern Online Banking System
+
+[![Online Banking](https://img.shields.io/badge/View_Project-Online_Banking_System-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/Ritacloud23)
+
+Modern banking application demonstrating **cloud deployment, containerization, CI/CD automation, infrastructure management, and security practices.**
+
+---
+
+###  Agentic DevOps with Claude Code
+
+[![Agentic DevOps](https://img.shields.io/badge/View_Project-Agentic_DevOps-000000?style=for-the-badge)](https://github.com/Ritacloud23)
+
+Exploring how **Agentic AI, Claude Code, MCP, and automation** can improve DevOps workflows, infrastructure management, troubleshooting, and engineering productivity.
+
+---
+
+##  My Engineering Approach
+
+I believe good engineering is more than making an application work.
+
+I focus on:
+
+**Automation** - Reduce repetitive manual work.
+
+**Security** - Build security into the development and deployment process.
+
+**Scalability** - Design systems that can grow with demand.
+
+**Reliability** - Build infrastructure that is observable and maintainable.
+
+**Documentation** - Make technical decisions and implementations easy to understand.
+
+**Continuous Learning** - Keep improving through hands-on projects and real-world problem solving.
+
+---
+
+##  Currently Learning
+
+I'm currently expanding my **software engineering and backend development skills** while continuing to deepen my knowledge of:
+
+- Full-Stack Development
+- Python & FastAPI
+- JavaScript & TypeScript
+- React & Next.js
+- Cloud Architecture
+- DevOps Automation
+- Kubernetes
+- Infrastructure as Code
+- Agentic AI for DevOps
+
+---
+
+##  Open to Opportunities
+
+I'm actively looking for opportunities where I can contribute to a real engineering team and continue growing through practical experience.
+
+I'm open to:
+
+**Junior DevOps Engineer · Cloud Engineer · Cloud Support Engineer · DevOps Intern · Infrastructure Engineer · Backend Engineer · Junior Software Engineer**
+
+If you're building cloud infrastructure, developer platforms, backend systems, or automation, I'd love to connect.
+
+---
+
+##  Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ritacloud23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritacloud23)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rita_Nnenna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rita-nnenna)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ritadev.online-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ritadev.online)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+
+---
+
+##  A Little More About Me
+
+-  Cloud & DevOps enthusiast
+-  Infrastructure as Code advocate
+-  Docker & Kubernetes learner
+-  Python developer
+-  Full-stack development learner
+-  Exploring Agentic AI for DevOps
+-  Always learning through hands-on projects
+-  Passionate about solving real-world problems with technology
+
+---
+
+###  Thanks for visiting my profile!
+
+Feel free to explore my repositories, check out my projects, and connect with me.
+
+**Let's build, automate, and ship better systems. **
+```
