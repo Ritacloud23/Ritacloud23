@@ -9,7 +9,7 @@ I build, automate, and deploy reliable cloud infrastructure and modern applicati
 My work focuses on **Cloud Computing, DevOps, Infrastructure as Code, CI/CD, Containerization, Kubernetes, Cloud Security, Monitoring, Backend Development, and AI-powered automation.**
 
 I enjoy taking projects through the complete engineering journey:  
-** Code →  Infrastructure →  Containerization →  CI/CD →  Cloud Deployment →  Security →  Monitoring**
+**Code →  Infrastructure →  Containerization →  CI/CD →  Cloud Deployment →  Security →  Monitoring**
 
 I'm passionate about solving real-world engineering problems and building systems that are **scalable, secure, automated, and maintainable.**
 
