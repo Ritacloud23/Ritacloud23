@@ -1,8 +1,6 @@
 # Hi, I'm Rita Nnenna 
 
 
----
-
 ## Cloud & DevOps Engineer | Backend & Full-Stack Developer
 
 I build, automate, and deploy reliable cloud infrastructure and modern applications.  
