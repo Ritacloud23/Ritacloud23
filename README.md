@@ -157,4 +157,4 @@ I'm particularly interested in teams working on **cloud infrastructure, automati
 ###  Thanks for visiting my profile!
 
 Feel free to explore my repositories, review my projects, and connect with me.  
-**Let's build, automate, and ship better systems. **
+**Let's build, automate, and ship better systems.**
