@@ -107,36 +107,12 @@ I build projects that combine application development with cloud infrastructure,
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Ritacloud23/Netflix-Clone-Azure-AKS-DevSecOps-Deployment">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritacloud23&repo=Netflix-Clone-Azure-AKS-DevSecOps-Deployment&theme=default" />
-      </a>
-      <p>A production-grade, cloud-native deployment of a Netflix clone on Azure Kubernetes Service (AKS) — built from infrastructure provisioning to live domain with SSL, security scanning, GitOps and full DevSecOps automation.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Ritacloud23/Cloud-Native-TaskAPP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritacloud23&repo=Cloud-Native-TaskAPP&theme=default" />
-      </a>
-      <p>A production-ready cloud-native task management platform deployed on AWS using Kubernetes, ArgoCD, CI/CD, SSL, Ingress, and DevOps best practices.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Ritacloud23/AWS-3-Tier-Banking-App-Deployment">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritacloud23&repo=AWS-3-Tier-Banking-App-Deployment&theme=default" />
-      </a>
-      <p>Infrastructure-as-code repo provisioning a 3-tier banking application architecture on AWS.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Ritacloud23/Mediplus-3-Tier-Application-Deployment">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritacloud23&repo=Mediplus-3-Tier-Application-Deployment&theme=default" />
-      </a>
-      <p>A 3-tier healthcare application deployment demonstrating layered architecture and infrastructure best practices.</p>
-    </td>
-  </tr>
-</table>
+| Project | Description |
+|---|---|
+| **[Netflix-Clone-Azure-AKS-DevSecOps-Deployment](https://github.com/Ritacloud23/Netflix-Clone-Azure-AKS-DevSecOps-Deployment)** | A production-grade, cloud-native deployment of a Netflix clone on Azure Kubernetes Service (AKS) — built from infrastructure provisioning to live domain with SSL, security scanning, GitOps and full DevSecOps automation. |
+| **[Cloud-Native-TaskAPP](https://github.com/Ritacloud23/Cloud-Native-TaskAPP)** | A production-ready cloud-native task management platform deployed on AWS using Kubernetes, ArgoCD, CI/CD, SSL, Ingress, and DevOps best practices. |
+| **[AWS-3-Tier-Banking-App-Deployment](https://github.com/Ritacloud23/AWS-3-Tier-Banking-App-Deployment)** | Infrastructure-as-code repo provisioning a 3-tier banking application architecture on AWS. |
+| **[Mediplus-3-Tier-Application-Deployment](https://github.com/Ritacloud23/Mediplus-3-Tier-Application-Deployment)** | A 3-tier healthcare application deployment demonstrating layered architecture and infrastructure best practices. |
 
 ---
 
