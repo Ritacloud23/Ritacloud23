@@ -105,45 +105,38 @@ I build projects that combine application development with cloud infrastructure,
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-###  Netflix Clone — Azure AKS DevSecOps
-
-[![View Project](https://img.shields.io/badge/View_Project-Netflix_Clone-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/Ritacloud23/Netflix-Clone-Azure-AKS-DevSecOps-Deployment)
-
-Cloud-native Netflix application deployed on **Azure AKS** using Terraform, Docker, Kubernetes, CI/CD, DevSecOps, GitOps, security scanning, SSL/TLS, and monitoring.
-
----
-
-###  Voting Management System
-
-[![View Project](https://img.shields.io/badge/View_Project-Voting_Management_System-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritacloud23)
-
-A responsive voting management application built with **Next.js, TypeScript, Tailwind CSS, and TanStack Query**, with a focus on user experience and preventing duplicate votes.
-
----
-
-###  Estate Union Dues Tracker
-
-[![View Project](https://img.shields.io/badge/View_Project-Estate_Union_Dues_Tracker-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Ritacloud23/Estate-union-dues-tracker)
-
-A Python-based financial tracking application designed to manage estate members, payment records, persistent storage, and activity logging.
-
----
-
-###  MediPlus DevOps Project
-
-[![View Project](https://img.shields.io/badge/View_Project-MediPlus_DevOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/Ritacloud23)
-
-Healthcare application deployment demonstrating **AWS, Linux, NGINX, cloud infrastructure, CI/CD, and monitoring**.
-
----
-
-###  Agentic DevOps with Claude Code
-
-[![View Project](https://img.shields.io/badge/View_Project-Agentic_DevOps-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/Ritacloud23)
-
-Exploring the use of **Agentic AI, Claude Code, MCP, and automation** to improve DevOps workflows, infrastructure management, troubleshooting, and engineering productivity.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ritacloud23/Netflix-Clone-Azure-AKS-DevSecOps-Deployment">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritacloud23&repo=Netflix-Clone-Azure-AKS-DevSecOps-Deployment&theme=default" />
+      </a>
+      <p>A production-grade, cloud-native deployment of a Netflix clone on Azure Kubernetes Service (AKS) — built from infrastructure provisioning to live domain with SSL, security scanning, GitOps and full DevSecOps automation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ritacloud23/Cloud-Native-TaskAPP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritacloud23&repo=Cloud-Native-TaskAPP&theme=default" />
+      </a>
+      <p>A production-ready cloud-native task management platform deployed on AWS using Kubernetes, ArgoCD, CI/CD, SSL, Ingress, and DevOps best practices.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ritacloud23/AWS-3-Tier-Banking-App-Deployment">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritacloud23&repo=AWS-3-Tier-Banking-App-Deployment&theme=default" />
+      </a>
+      <p>Infrastructure-as-code repo provisioning a 3-tier banking application architecture on AWS.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ritacloud23/Mediplus-3-Tier-Application-Deployment">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritacloud23&repo=Mediplus-3-Tier-Application-Deployment&theme=default" />
+      </a>
+      <p>A 3-tier healthcare application deployment demonstrating layered architecture and infrastructure best practices.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
