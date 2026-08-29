@@ -111,12 +111,12 @@ I believe good engineering is more than making an application work.
 
 I focus on:
 
-- **Automation** — Reducing repetitive manual work.
-- **Security** — Integrating security into development and deployment.
-- **Scalability** — Designing systems that can grow with demand.
-- **Reliability** — Building observable and maintainable systems.
-- **Documentation** — Clearly communicating technical decisions and implementations.
-- **Continuous Learning** — Improving through hands-on projects and practical experience.
+- **Automation** - Reducing repetitive manual work.
+- **Security** - Integrating security into development and deployment.
+- **Scalability** - Designing systems that can grow with demand.
+- **Reliability** - Building observable and maintainable systems.
+- **Documentation** - Clearly communicating technical decisions and implementations.
+- **Continuous Learning** - Improving through hands-on projects and practical experience.
 
 ---
 
